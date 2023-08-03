@@ -358,3 +358,7 @@ class DFRobot_GP8501(DFRobot_GP8XXX_PWM):
 class DFRobot_GP8101(DFRobot_GP8XXX_PWM):
   def __init__(self,pin0=-1):
     return super().__init__(pin0,-1)
+  
+class DFRobot_GP8101S(DFRobot_GP8XXX_PWM):
+  def __init__(self,pin0=-1):
+    return super().__init__(pin0,-1)

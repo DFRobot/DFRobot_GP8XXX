@@ -2,7 +2,7 @@
 
 * [中文版](./README_CN.md)
 
-GP8XXX series driver library on Raspberry Pi (currently compatible with GP8101, GP8211S, GP8413, GP8501, GP8503, GP8512,GP8403,GP8302)
+GP8XXX series driver library on Raspberry Pi (currently compatible with GP8101, GP8101S, GP8211S, GP8413, GP8501, GP8503, GP8512,GP8403,GP8302)
 
 ## Product Link([www.dfrobot.com](www.dfrobot.com))
 
@@ -10,7 +10,7 @@ SUK：
 
 1. DFR1034 --- GP8503
 2. DFR1035 --- GP8512
-3. DFR1036 --- GP8101
+3. DFR1036 --- GP8101S
 4. DFR1037 --- GP8501
 5. DFR1071 --- GP8211S
 6. DFR1073 --- GP8413
